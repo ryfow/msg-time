@@ -4,7 +4,8 @@ Like clojure.core/time, but with a prefix.
 
 ## Usage
 
-** In a REPL **
+
+**In a REPL**
 ```clojure
 user> (use 'ryfow.msg-time)
 nil
@@ -16,7 +17,7 @@ nil
 user>
 ```
 
-** In a file **
+**In a file**
 ```clojure
 (ns foo
   (:use [ryfow.msg-time]))
